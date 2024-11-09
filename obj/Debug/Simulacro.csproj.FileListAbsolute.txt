@@ -1,0 +1,10 @@
+C:\Users\lili\source\repos\Simulacro\bin\Debug\Simulacro.exe.config
+C:\Users\lili\source\repos\Simulacro\bin\Debug\Simulacro.exe
+C:\Users\lili\source\repos\Simulacro\bin\Debug\Simulacro.pdb
+C:\Users\lili\source\repos\Simulacro\obj\Debug\Simulacro.csproj.AssemblyReference.cache
+C:\Users\lili\source\repos\Simulacro\obj\Debug\Simulacro.Form1.resources
+C:\Users\lili\source\repos\Simulacro\obj\Debug\Simulacro.Properties.Resources.resources
+C:\Users\lili\source\repos\Simulacro\obj\Debug\Simulacro.csproj.GenerateResource.cache
+C:\Users\lili\source\repos\Simulacro\obj\Debug\Simulacro.csproj.CoreCompileInputs.cache
+C:\Users\lili\source\repos\Simulacro\obj\Debug\Simulacro.exe
+C:\Users\lili\source\repos\Simulacro\obj\Debug\Simulacro.pdb
